@@ -6,7 +6,6 @@ setTimeout(function() {
 		console.log('[#]  Android Bypass for various Certificate Pinning methods   [#]');
 		console.log('=================================================================');
 
-
 		var X509TrustManager = Java.use('javax.net.ssl.X509TrustManager');
 		var SSLContext = Java.use('javax.net.ssl.SSLContext');
 		
