@@ -4,6 +4,9 @@
 
 Automate your Android penetration testing lab setup using Nox Emulator. Noxer is a powerful Python script designed for automating Android penetration testing tasks within the Nox Player emulator. It simplifies setup, enhances stability, manages Frida Server, removes unwanted bloatware, integrates BurpSuite certificates, and much more!
 
+## 👋 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AggressiveUser/)](https://www.linkedin.com/in/AggressiveUser/) [![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-green?style=flat-square&logo=hack-the-box&logoColor=white&link=https://app.hackthebox.com/profile/17569)](https://app.hackthebox.com/profile/17569) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/AggressiveUser)](https://github.com/AggressiveUser) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AggressiveUserX)](https://twitter.com/AggressiveUserX) [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/AggressiveUser)](https://t.me/AggressiveUser) [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:AggressiveUser@OutLook.com)](mailto:AggressiveUser@OutLook.com)
 
 ## 🚀 Features
 - **Effortless Automation ⚙️:**
